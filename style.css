@@ -1,0 +1,60 @@
+/* TODO: design your profile with CSS */
+h1 {
+  font-family: 'Kaisei Opti', serif;
+}
+
+h2 {
+  font-family: 'Kaisei Opti', serif;
+  color: rgb(72, 18, 197);
+}
+
+body {
+  background-color: rgb(240,240,240);
+  font-family: 'Poppins', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: rgb(27, 158, 51);
+}
+
+h2 {
+  /* border: 1px red solid; */
+}
+
+.card-white {
+  background-color: white;
+  padding: 20px;
+  margin: 20px auto;
+  width: 500px;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+  border-radius: 4px;
+}
+
+img {
+  border-radius: 50%;
+  width: 160px;
+}
+
+.btn {
+  background-color: #6b72e1;
+  color: white;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  background-color: black;
+}
+
+.social-media-icons {
+  padding-left: 0;
+  list-style: none;
+}
+
+.social-media-icons li {
+  display: inline-block;
+  margin: 0 8px;
+}
